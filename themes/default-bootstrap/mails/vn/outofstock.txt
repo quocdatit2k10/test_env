@@ -1,0 +1,19 @@
+Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã mua sắm tại {shop_name}. 
+
+Về đơn đặt hàng {order_name} của bạn,
+
+Chúng tôi rất tiếc vì hiện có sản phẩm trong đơn hàng đang hết do đó việc giao hàng có thể bị chậm trễ.
+Rất mong Bạn thông cảm và tiếp tục đồng hành cùng chúng tôi.
+
+Để xem lại đơn hàng, Bạn có thể truy cập vào "Lịch sử đơn hàng" [{history_url}] trong phần "Quản lý" [{my_account_url}] của bạn.
+Nếu chưa đăng ký thành viên, Bạn có thể tra cứu đơn hàng trong mục "Theo dõi đơn hàng" [{guest_tracking_url}?id_order={order_name}] trên trang web.
+
+Trân trọng,
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

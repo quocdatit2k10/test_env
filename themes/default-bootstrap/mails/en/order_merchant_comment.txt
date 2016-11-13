@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Gửi {firstname} {lastname}, 
+
+You have received a new message from {shop_name} regarding order with
+the reference {order_name}.
+
+NỘI DUNG: {message} 		 
+
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
+

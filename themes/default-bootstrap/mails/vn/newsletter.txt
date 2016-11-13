@@ -1,0 +1,16 @@
+[{shop_url}] 
+
+{firstname} {lastname} thân mến, 
+
+{message} 
+
+Hãy ghé thăm Japan Domestic nhé, rất nhiều sản phẩm mới lạ đã có tại Shop rồi đấy bạn!
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

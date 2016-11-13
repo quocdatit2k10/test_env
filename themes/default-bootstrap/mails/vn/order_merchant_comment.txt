@@ -1,0 +1,14 @@
+[{shop_url}] 
+
+{firstname} {lastname} thân mến, 
+
+Chúng tôi xin thông tin đến bạn một số nội dung mới liên quan đến đơn đặt hàng: {order_name} của bạn như sau:
+{message} 		 
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

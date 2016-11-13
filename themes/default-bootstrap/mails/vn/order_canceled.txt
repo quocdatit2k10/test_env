@@ -1,0 +1,21 @@
+Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã mua sắm tại {shop_name}. 
+
+Chúng tôi rất tiếc vì Đơn đặt hàng {order_name} đã bị hủy.
+
+Nếu Bạn chưa hài lòng về bất cứ dịch vụ nào xin hãy phản hồi với Shop để chúng tôi có thể phục vụ Bạn tốt hơn nữa.
+
+Rất mong được tiếp tục gặp Bạn trong những lần mua sắm khác tại Shop.
+
+Để xem lại đơn hàng, Bạn có thể truy cập vào "Danh sách đơn hàng" [{history_url}] trong phần "Tài khoản" [{my_account_url}] của bạn.
+Nếu chưa đăng ký thành viên, Bạn có thể tra cứu đơn hàng trong mục "Theo dõi đơn hàng" [{guest_tracking_url}?id_order={order_name}] trên trang web.
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

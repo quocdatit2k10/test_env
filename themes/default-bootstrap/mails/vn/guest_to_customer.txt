@@ -1,0 +1,25 @@
+{firstname} {lastname} thân mến,
+Chào mừng bạn đã là thành viên của {shop_name}. 
+
+THÔNG TIN ĐĂNG NHẬP CỦA BẠN:
+
+Địa chỉ Email: {email}
+
+Mật khẩu: {passwd}
+
+Hãy tiếp tuc mua sắm tại {shop_name} [{shop_url}] bạn nhé! 		 
+
+LƯU Ý::
+
+* Vui lòng lưu trữ thông tin tài khoản cẩn thận.
+
+* Nếu có vấn đề liên quan đến bảo mật tài khoản của bạn, vui lòng liên hệ với chúng tôi ngay lập tức.
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

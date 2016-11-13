@@ -1,0 +1,18 @@
+[{shop_url}] 
+
+{firstname} {lastname} thân mến, 
+
+{reply} 
+
+Đây là email tự động từ hệ thống, vui lòng không trả lời trực tiếp bằng email này.
+
+Để liên hệ với chúng tôi, xin sử dụng đường dẫn sau: {link}
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

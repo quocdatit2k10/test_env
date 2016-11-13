@@ -1,0 +1,20 @@
+[{shop_url}] 
+
+Bạn ơi,
+{firstname} {lastname} đã chia sẻ điều bạn ấy đang thích đến bạn và tin rằng bạn sẽ hiểu thông điệp của bạn ấy.
+
+Hãy xem điều gì đang làm bạn ấy ấn tượng trong link bên dưới bạn nhé!
+
+{wishlist}
+
+{wishlist} [{message}] 	
+
+Chúc bạn luôn vui và hạnh phúc!
+
+Trân trọng,
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

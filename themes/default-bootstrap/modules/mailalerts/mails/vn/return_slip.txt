@@ -1,0 +1,35 @@
+[{shop_url}] 
+
+Hi, 
+
+You have received a new return request for {shop_name}. 
+
+Return details 
+
+ORDER: {order_name} Placed on {date}
+
+CUSTOMER: {firstname} {lastname}, ({email}) 
+
+MẪU
+
+SẢN PHẨM
+
+SỐ LƯỢNG
+
+{items} 
+
+Địa chỉ giao hàng
+
+{delivery_block_html} 		 
+
+Billing address
+
+{invoice_block_html} 
+
+Tin nhắn của khách hàng: 
+
+{message} 
+
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
+

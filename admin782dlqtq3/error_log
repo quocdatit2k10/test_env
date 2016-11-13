@@ -1,0 +1,496 @@
+[15-Feb-2016 06:58:31 UTC] PHP Fatal error:  Out of memory (allocated 9175040) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 9240
+[15-Feb-2016 13:58:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 29622272) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/modules/mailjet/classes/Segmentation.php on line 419
+[15-Feb-2016 13:58:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 22544384) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[15-Feb-2016 13:58:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/AdminTab.php on line 214
+[15-Feb-2016 21:40:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 19660800) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 911
+[15-Feb-2016 21:40:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 35913728) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 2875
+[15-Feb-2016 21:40:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 35913728) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 2875
+[15-Feb-2016 21:40:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 36700160) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 5430
+[15-Feb-2016 23:21:26 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[15-Feb-2016 23:21:26 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[15-Feb-2016 23:21:26 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[16-Feb-2016 02:36:33 Asia/Ho_Chi_Minh] PHP Warning:  scandir(/home/ngoinhat/public_html/modules/sendinblue/mails/vn/) [<a href='function.scandir'>function.scandir</a>]: failed to open dir: No such file or directory in /home/ngoinhat/public_html/controllers/admin/AdminTranslationsController.php on line 2680
+[16-Feb-2016 02:36:33 Asia/Ho_Chi_Minh] PHP Warning:  scandir() [<a href='function.scandir'>function.scandir</a>]: (errno 2): No such file or directory in /home/ngoinhat/public_html/controllers/admin/AdminTranslationsController.php on line 2680
+[16-Feb-2016 02:36:33 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngoinhat/public_html/controllers/admin/AdminTranslationsController.php on line 2680
+[28-Feb-2016 01:08:51 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:08:51 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:08:51 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:08:51 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:08:51 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:08:51 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:12:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:12:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:12:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:12:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:12:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:12:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:13:53 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:13:53 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:13:53 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:22:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:22:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:22:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:22:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:22:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:22:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:27:31 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:27:31 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:27:31 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:27:31 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:27:31 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:27:31 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:44:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:44:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:44:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:44:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:44:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:44:05 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:48:08 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:48:08 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:48:08 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:48:08 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:48:09 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:48:09 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:50:43 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:50:43 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:50:43 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:50:43 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:50:43 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:50:43 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:54:03 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:54:03 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:54:03 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:54:03 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:54:03 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:54:03 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:55:50 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:55:50 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:55:50 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:55:50 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:55:50 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:55:50 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:57:54 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:57:54 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:57:54 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:57:54 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:57:54 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:57:54 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:59:01 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:59:01 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:59:01 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:59:01 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:59:01 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 01:59:01 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:02 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:02 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:02 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:09 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:09 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:09 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:00:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:02:04 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:02:04 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:02:04 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:02:04 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:02:04 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:02:04 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:05:22 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:05:22 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[28-Feb-2016 02:05:22 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Feb-2016 20:42:44 UTC] PHP Fatal error:  Out of memory (allocated 11272192) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 17318
+[28-Feb-2016 03:42:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 36962304) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/webservice/WebserviceRequest.php on line 523
+[28-Feb-2016 03:42:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 36175872) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 3838
+[28-Feb-2016 03:42:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 21233664) (tried to allocate 146891 bytes) in /home/ngoinhat/public_html/classes/Translate.php on line 58
+[28-Feb-2016 03:42:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 36962304) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/webservice/WebserviceRequest.php on line 523
+[28-Feb-2016 04:01:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 19660800) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 800
+[27-Feb-2016 21:01:56 UTC] PHP Fatal error:  Out of memory (allocated 8126464) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 4088
+[28-Feb-2016 04:01:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 38535168) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/helper/HelperForm.php on line 157
+[28-Feb-2016 22:53:38 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ngoinhat/public_html/classes/controller/Controller.php:563) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 1789
+[28-Feb-2016 22:53:39 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ngoinhat/public_html/classes/controller/Controller.php:563) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 1789
+[29-Feb-2016 00:12:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 21757952) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/translations/vn/admin.php on line 132
+[28-Feb-2016 17:12:46 UTC] PHP Fatal error:  Out of memory (allocated 5505024) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/classes/Theme.php on line 67
+[29-Feb-2016 00:14:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 20447232) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 2729
+[28-Feb-2016 17:14:37 UTC] PHP Fatal error:  Out of memory (allocated 8650752) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 6612
+[28-Feb-2016 17:15:44 UTC] PHP Fatal error:  Out of memory (allocated 4718592) (tried to allocate 31876 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[29-Feb-2016 00:15:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 36438016) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 4550
+[29-Feb-2016 00:15:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 40894464) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/cache/smarty/compile/f6/01/64/f60164f725d98bfbaf7c6fa736bea523a6221b8b.file.header.tpl.php on line 447
+[29-Feb-2016 00:15:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 22020096) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/translations/vn/admin.php on line 516
+[29-Feb-2016 00:40:40 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngoinhat/public_html/modules/blocktopmenu/blocktopmenu.php on line 1189
+[29-Feb-2016 00:40:40 Asia/Ho_Chi_Minh] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/ngoinhat/public_html/modules/blocktopmenu/blocktopmenu.php on line 307
+[10-Mar-2016 14:49:40 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 14:49:40 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 14:49:40 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 14:53:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 14:53:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 14:53:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 14:59:33 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 14:59:33 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 14:59:33 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:01:30 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:01:30 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:01:30 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:08:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:08:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:08:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:08:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:08:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:08:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:26:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:26:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:26:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:26:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:26:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:26:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:28:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:28:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:28:10 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:28:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:28:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:28:11 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:37:59 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:37:59 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:37:59 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:39:08 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:39:08 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 15:39:08 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[10-Mar-2016 19:41:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24641536) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/mailjet/mailjet.php on line 1079
+[10-Mar-2016 19:41:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 30408704) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/modules/dashgoals/dashgoals.php on line 62
+[10-Mar-2016 19:41:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24379392) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/modules/mailjet/mailjet.php on line 512
+[10-Mar-2016 19:41:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 30146560) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/modules/dashgoals/dashgoals.php on line 425
+[10-Mar-2016 22:37:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 82342 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[10-Mar-2016 17:32:13 UTC] PHP Fatal error:  Out of memory (allocated 6553600) (tried to allocate 677387 bytes) in /home/ngoinhat/public_html/config/config.inc.php on line 135
+[11-Mar-2016 00:32:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 42729472) (tried to allocate 77 bytes) in /home/ngoinhat/public_html/classes/Hook.php on line 245
+[11-Mar-2016 00:32:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24117248) (tried to allocate 72 bytes) in /home/ngoinhat/public_html/classes/Hook.php on line 363
+[11-Mar-2016 00:32:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 33292288) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/dashgoals/dashgoals.php on line 248
+[13-Mar-2016 00:07:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 15990784) (tried to allocate 71 bytes) in /home/ngoinhat/public_html/classes/Hook.php on line 362
+[13-Mar-2016 00:07:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 18087936) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/controllers/admin/AdminProductsController.php on line 1913
+[13-Mar-2016 00:07:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 39583744) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_templatelexer.php on line 1203
+[15-Mar-2016 13:00:58 UTC] PHP Fatal error:  Out of memory (allocated 6029312) (tried to allocate 677386 bytes) in /home/ngoinhat/public_html/config/config.inc.php on line 135
+[15-Mar-2016 20:00:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 31719424) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/classes/AdminTab.php on line 853
+[15-Mar-2016 20:00:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 36175872) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 5338
+[19-Mar-2016 01:02:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 21757952) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/classes/module/Module.php on line 1505
+[19-Mar-2016 01:02:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24117248) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/modules/mailjet/mailjet.php on line 1327
+[19-Mar-2016 01:02:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24903680) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/modules/mailjet/libraries/Mailjet.Overlay.class.php on line 1255
+[19-Mar-2016 01:02:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 22544384) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/modules/gamification/gamification.php on line 148
+[19-Mar-2016 01:02:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 23855104) (tried to allocate 8 bytes) in /home/ngoinhat/public_html/modules/mailjet/mailjet.php on line 829
+[19-Mar-2016 01:18:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 31195136) (tried to allocate 118443 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[18-Mar-2016 18:18:51 UTC] PHP Fatal error:  Out of memory (allocated 10747904) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15266
+[19-Mar-2016 01:18:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 33292288) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/dashgoals/dashgoals.php on line 248
+[18-Mar-2016 18:19:49 UTC] PHP Fatal error:  Out of memory (allocated 6815744) (tried to allocate 677387 bytes) in /home/ngoinhat/public_html/config/config.inc.php on line 135
+[19-Mar-2016 01:19:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 3012
+[19-Mar-2016 01:19:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 19136512) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/controllers/admin/AdminProductsController.php on line 3341
+[18-Mar-2016 18:21:33 UTC] PHP Fatal error:  Out of memory (allocated 11272192) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 16908
+[19-Mar-2016 01:21:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 17301504) (tried to allocate 249151 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[19-Mar-2016 01:23:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 15204352) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Hook.php on line 522
+[19-Mar-2016 01:23:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24641536) (tried to allocate 124646 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[19-Mar-2016 01:23:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/modules/mailjet/classes/Segmentation.php on line 419
+[20-Mar-2016 18:44:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 42467328) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/cache/smarty/compile/f6/01/64/f60164f725d98bfbaf7c6fa736bea523a6221b8b.file.header.tpl.php on line 447
+[20-Mar-2016 18:44:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 39321600) (tried to allocate 77 bytes) in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 70
+[20-Mar-2016 18:44:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 38535168) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 353
+[20-Mar-2016 18:44:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 37486592) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/webservice/WebserviceRequest.php on line 1334
+[20-Mar-2016 11:44:09 UTC] PHP Fatal error:  Out of memory (allocated 6553600) (tried to allocate 677387 bytes) in /home/ngoinhat/public_html/config/config.inc.php on line 135
+[20-Mar-2016 18:44:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/modules/mailjet/mailjet.php on line 38
+[20-Mar-2016 18:44:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 27787264) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/mailjet/libraries/Mailjet.Api.class.php on line 312
+[20-Mar-2016 18:44:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 25427968) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/themeconfigurator/themeconfigurator.php on line 813
+[20-Mar-2016 18:44:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 41943040) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php on line 3868
+[20-Mar-2016 18:44:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 27787264) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/mailjet/libraries/Mailjet.Api.class.php on line 312
+[20-Mar-2016 18:51:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24903680) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/classes/module/Module.php on line 1505
+[20-Mar-2016 18:51:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 41943040) (tried to allocate 71 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php on line 1498
+[20-Mar-2016 18:51:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24641536) (tried to allocate 124647 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[20-Mar-2016 18:51:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24379392) (tried to allocate 124646 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[20-Mar-2016 18:51:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 36438016) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 3995
+[20-Mar-2016 18:52:07 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/a/ad8c67e85a38636dac2ffffb35f2b3b2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[20-Mar-2016 19:29:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 29884416) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/classes/AdminTab.php on line 1829
+[20-Mar-2016 19:29:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 29097984) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/AdminTab.php on line 377
+[20-Mar-2016 23:55:47 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngoinhat/public_html/classes/Tools.php on line 2389
+[20-Mar-2016 23:55:47 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngoinhat/public_html/classes/Tools.php on line 2389
+[20-Mar-2016 23:55:47 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/ngoinhat/public_html/classes/Tools.php on line 2389
+[22-Mar-2016 20:38:26 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/a/ad8c67e85a38636dac2ffffb35f2b3b2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[22-Mar-2016 20:38:26 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/a/ad8c67e85a38636dac2ffffb35f2b3b2) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[22-Mar-2016 20:39:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 40370176) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Cart.php on line 2165
+[22-Mar-2016 20:39:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 41943040) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code on line 53
+[27-Mar-2016 09:05:02 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/b/b81162e8e61f1e4ad4c2c7a78503e7fe) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[27-Mar-2016 09:05:02 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/b/b81162e8e61f1e4ad4c2c7a78503e7fe) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[27-Mar-2016 09:05:02 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/b/b81162e8e61f1e4ad4c2c7a78503e7fe) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[27-Mar-2016 09:11:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 09:11:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 09:11:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 09:12:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 09:12:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 09:12:57 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:51:44 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 10:56:38 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 11:05:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 11:05:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 11:05:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 11:05:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 11:05:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 11:05:23 Asia/Ho_Chi_Minh] PHP Warning:  Base directory /home/ngoinhat/public_html/cache/purifier does not exist,
+                    please create or change using %Cache.SerializerPath in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 15280
+[27-Mar-2016 11:17:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 36175872) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 2326
+[27-Mar-2016 11:17:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 35127296) (tried to allocate 118940 bytes) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 2122
+[27-Mar-2016 11:17:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 23068672) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[27-Mar-2016 11:17:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 35127296) (tried to allocate 118940 bytes) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 2122
+[27-Mar-2016 11:17:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 26476544) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Media.php on line 583
+[27-Mar-2016 11:17:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24117248) (tried to allocate 55400 bytes) in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 69
+[27-Mar-2016 11:17:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 34603008) (tried to allocate 85 bytes) in /home/ngoinhat/public_html/classes/Profile.php on line 128
+[27-Mar-2016 11:17:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/modules/dashtrends/dashtrends.php on line 223
+[27-Mar-2016 11:19:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 19922944) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/controllers/admin/AdminProductsController.php on line 5158
+[27-Mar-2016 11:19:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 30670848) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/tools/swift/Swift.php on line 407
+[27-Mar-2016 11:19:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 18612224) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/controllers/admin/AdminProductsController.php on line 2045
+[27-Mar-2016 11:19:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 23330816) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Category.php on line 709
+[27-Mar-2016 11:19:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 33292288) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/dashactivity/dashactivity.php on line 174
+[27-Mar-2016 11:19:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 34078720) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/modules/dashgoals/dashgoals.php on line 425
+[27-Mar-2016 11:19:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 34603008) (tried to allocate 76 bytes) in /home/ngoinhat/public_html/classes/Profile.php on line 132
+[27-Mar-2016 11:22:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 13893632) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_resource.php on line 610
+[27-Mar-2016 11:22:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 39583744) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 2875
+[27-Mar-2016 04:22:22 UTC] PHP Fatal error:  Out of memory (allocated 11796480) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 18871
+[27-Mar-2016 11:22:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/modules/mailjet/classes/Segmentation.php on line 181
+[27-Mar-2016 11:22:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 21233664) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Translate.php on line 245
+[27-Mar-2016 11:22:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 29622272) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/modules/mailjet/classes/Segmentation.php on line 419
+[27-Mar-2016 11:22:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 17039360) (tried to allocate 249151 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[27-Mar-2016 11:25:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 33816576) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/dashactivity/dashactivity.php on line 174
+[27-Mar-2016 11:25:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 34340864) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/modules/dashgoals/dashgoals.php on line 425
+[27-Mar-2016 11:25:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 33816576) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/dashactivity/dashactivity.php on line 174
+[27-Mar-2016 11:25:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 33030144) (tried to allocate 40961 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php on line 180
+[27-Mar-2016 11:26:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 41418752) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Pack.php on line 269
+[27-Mar-2016 11:26:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 41156608) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/webservice/WebserviceRequest.php on line 1662
+[27-Mar-2016 04:26:29 UTC] PHP Fatal error:  Out of memory (allocated 11534336) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/htmlpurifier/HTMLPurifier.standalone.php on line 17988
+[27-Mar-2016 11:26:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24379392) (tried to allocate 124647 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[27-Mar-2016 11:26:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 23068672) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Category.php on line 774
+[27-Mar-2016 04:26:30 UTC] PHP Fatal error:  Out of memory (allocated 5767168) (tried to allocate 677386 bytes) in /home/ngoinhat/public_html/config/config.inc.php on line 135
+[27-Mar-2016 11:26:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 19398656) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/controllers/admin/AdminProductsController.php on line 4446
+[27-Mar-2016 11:29:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 20709376) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 3071
+[27-Mar-2016 11:29:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 17563648) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/controllers/admin/AdminProductsController.php on line 633
+[27-Mar-2016 11:29:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 35389440) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php on line 2587
+[27-Mar-2016 11:30:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24379392) (tried to allocate 124646 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[27-Mar-2016 11:30:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 26476544) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/Media.php on line 583
+[27-Mar-2016 11:30:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 18612224) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/controllers/admin/AdminProductsController.php on line 2861
+[27-Mar-2016 11:30:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 27525120) (tried to allocate 8 bytes) in /home/ngoinhat/public_html/modules/mailjet/mailjet.php on line 867
+[27-Mar-2016 11:36:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 21495808) (tried to allocate 146892 bytes) in /home/ngoinhat/public_html/classes/Translate.php on line 58
+[27-Mar-2016 11:36:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 23592960) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/classes/shop/ShopGroup.php on line 81
+[27-Mar-2016 11:36:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 24641536) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/module/Module.php on line 1325
+[27-Mar-2016 11:40:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 13631488) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 465
+[27-Mar-2016 04:40:01 UTC] PHP Fatal error:  Out of memory (allocated 11534336) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/classes/PrestaShopCollection.php on line 100
+[27-Mar-2016 11:43:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 25952256) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/modules/gamification/classes/Condition.php on line 169
+[27-Mar-2016 11:43:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 27787264) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/swift/Swift/BatchMailer.php on line 121
+[27-Mar-2016 11:43:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 19660800) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 457
+[27-Mar-2016 04:43:03 UTC] PHP Fatal error:  Out of memory (allocated 11534336) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/classes/PrestaShopCollection.php on line 100
+[27-Mar-2016 11:43:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 20709376) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/controller/AdminController.php on line 3071
+[27-Mar-2016 11:43:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 18087936) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/controllers/admin/AdminProductsController.php on line 1789
+[27-Mar-2016 04:43:04 UTC] PHP Fatal error:  Out of memory (allocated 5767168) (tried to allocate 677386 bytes) in /home/ngoinhat/public_html/config/config.inc.php on line 135
+[27-Mar-2016 11:43:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 29622272) (tried to allocate 491520 bytes) in /home/ngoinhat/public_html/modules/mailjet/classes/Segmentation.php on line 419
+[27-Mar-2016 11:43:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 33030144) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 671
+[27-Mar-2016 11:43:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 30408704) (tried to allocate 26421 bytes) in /home/ngoinhat/public_html/tools/swift/Swift/ClassLoader.php on line 35
+[27-Mar-2016 11:43:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 31195136) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/swift/Swift/Connection/SMTP.php on line 98
+[27-Mar-2016 11:43:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 30146560) (tried to allocate 7680 bytes) in /home/ngoinhat/public_html/tools/swift/Swift.php on line 190
+[27-Mar-2016 11:45:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 40108032) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 4550
+[27-Mar-2016 11:45:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 40894464) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/webservice/WebserviceRequest.php on line 697
+[27-Mar-2016 11:45:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 40370176) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 5338
+[27-Mar-2016 11:46:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 38010880) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/classes/helper/Helper.php on line 261
+[27-Mar-2016 11:46:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 40370176) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Product.php on line 5338
+[27-Mar-2016 11:47:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 23592960) (tried to allocate 30720 bytes) in /home/ngoinhat/public_html/classes/Media.php on line 342
+[27-Mar-2016 11:47:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 25165824) (tried to allocate 122880 bytes) in /home/ngoinhat/public_html/modules/mailjet/libraries/Mailjet.Api.class.php on line 312
+[27-Mar-2016 11:47:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 25427968) (tried to allocate 143715 bytes) in /home/ngoinhat/public_html/modules/mailjet/classes/MailJetTemplate.php on line 28
+[27-Mar-2016 04:58:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ngoinhat/public_html/classes/db/MySQL.php:51
+Stack trace:
+#0 /home/ngoinhat/public_html/classes/db/Db.php(319): MySQLCore->connect()
+#1 /home/ngoinhat/public_html/classes/db/Db.php(239): DbCore->__construct('127.0.0.1', 'ngoinhat_oiyeu', 'ngoinhatoiyeu', 'ngoinhat_oiyeu')
+#2 /home/ngoinhat/public_html/config/alias.php(66): DbCore::getInstance()
+#3 /home/ngoinhat/public_html/classes/shop/Shop.php(329): pSQL('ngoinhatoiyeu.c...')
+#4 /home/ngoinhat/public_html/config/config.inc.php(114): ShopCore::initialize()
+#5 /home/ngoinhat/public_html/admin658p1mmhw/index.php(36): require('/home/ngoinhat/...')
+#6 {main}
+  thrown in /home/ngoinhat/public_html/classes/db/MySQL.php on line 51
+[27-Mar-2016 04:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ngoinhat/public_html/classes/db/MySQL.php:51
+Stack trace:
+#0 /home/ngoinhat/public_html/classes/db/Db.php(319): MySQLCore->connect()
+#1 /home/ngoinhat/public_html/classes/db/Db.php(239): DbCore->__construct('127.0.0.1', 'ngoinhat_oiyeu', 'ngoinhatoiyeu', 'ngoinhat_oiyeu')
+#2 /home/ngoinhat/public_html/config/alias.php(66): DbCore::getInstance()
+#3 /home/ngoinhat/public_html/classes/shop/Shop.php(329): pSQL('ngoinhatoiyeu.c...')
+#4 /home/ngoinhat/public_html/config/config.inc.php(114): ShopCore::initialize()
+#5 /home/ngoinhat/public_html/admin658p1mmhw/index.php(36): require('/home/ngoinhat/...')
+#6 {main}
+  thrown in /home/ngoinhat/public_html/classes/db/MySQL.php on line 51
+[27-Mar-2016 11:59:38 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/a/ad8c67e85a38636dac2ffffb35f2b3b2): No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[28-Mar-2016 18:02:01 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/b/b81162e8e61f1e4ad4c2c7a78503e7fe): No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[28-Mar-2016 18:02:01 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/b/b81162e8e61f1e4ad4c2c7a78503e7fe): No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[28-Mar-2016 18:02:01 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/b/b81162e8e61f1e4ad4c2c7a78503e7fe): No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[28-Mar-2016 18:02:01 Asia/Ho_Chi_Minh] PHP Warning:  unlink(/home/ngoinhat/public_html/cache/cachefs/b/b81162e8e61f1e4ad4c2c7a78503e7fe): No such file or directory in /home/ngoinhat/public_html/classes/cache/CacheFs.php on line 95
+[29-Mar-2016 20:29:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Out of memory (allocated 9175040) (tried to allocate 70656 bytes) in /home/ngoinhat/public_html/classes/PrestaShopAutoload.php on line 111
+[29-Mar-2016 13:29:23 UTC] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 12288 bytes) in /home/ngoinhat/public_html/config/config.inc.php on line 66
+[29-Mar-2016 13:29:23 UTC] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 12288 bytes) in /home/ngoinhat/public_html/classes/Tools.php on line 1359
+[29-Mar-2016 13:29:24 UTC] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 12288 bytes) in /home/ngoinhat/public_html/admin658p1mmhw/index.php on line 51

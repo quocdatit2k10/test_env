@@ -1,0 +1,14 @@
+[{shop_url}] 
+
+Gửi {firstname} {lastname}, 
+
+{employee} đã chuyển tiếp cuộc thảo luận điều này
+tới bạn. 
+
+LỊCH SỬ THẢO LUẬN: {messages}
+
+{employee} added "{comment}" 		 
+
+{shop_name} [{shop_url}] dựa trên nền tảng
+PrestaShop(tm) [http://www.prestashop.com/] 
+

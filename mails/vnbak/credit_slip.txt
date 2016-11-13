@@ -1,0 +1,17 @@
+Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã mua sắm tại {shop_name}. 
+
+Bạn đã đặt thành công đơn hàng: {order_name}
+Tổng giá trị: {total_paid}
+Phương thức thanh toán: Thẻ tín dụng
+
+Để xem lại đơn hàng/hóa đơn, Bạn có thể truy cập vào Phiếu tín dụng [{history_url}] trong phần quản lý [{my_account_url}] của bạn.
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com

@@ -1,0 +1,34 @@
+Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã mua sắm tại {shop_name}. 
+
+Bạn đã đặt thành công đơn hàng: {order_name}
+
+Phương thức thanh toán: Chuyển khoản.
+Tổng giá trị đơn hàng:     {total_paid}
+
+Để đơn hàng được thực hiện, Bạn có thể chuyển qua các Ngân hàng sau:
+
+Số tài khoản:         0071002240100 
+Người thụ hưởng: NGUYEN NGOC HIEN
+Tại ngân hàng:      Vietcombank (VCB) - chi nhánh Hồ Chí Minh
+Nội dung:               Thanh toán ĐH {order_name}
+
+hoặc
+
+Số tài khoản:         57170679 
+Người thụ hưởng: NGUYEN NGOC HIEN
+Tại ngân hàng:      Á Châu (ACB) - chi nhánh Kỳ Hòa
+Nội dung:               Thanh toán ĐH {order_name}
+
+Để xem lại đơn hàng, Bạn có thể truy cập vào Danh sách đơn hàng [{history_url}] trong phần quản lý [{my_account_url}] của bạn.
+Nếu chưa đăng ký thành viên, Bạn có thể tra cứu đơn hàng trong mục Theo dõi đơn hàng [{guest_tracking_url}] trên trang web.
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

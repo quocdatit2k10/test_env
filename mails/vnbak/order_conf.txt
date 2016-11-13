@@ -1,0 +1,65 @@
+Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã mua sắm tại {shop_name}. 
+
+Đơn đặt hàng số: {order_name} ngày {date}
+
+Phương thức thanh toán: {payment} 		 
+
+Mã hàng
+
+Tên hàng
+
+Đơn giá
+
+Số lượng
+
+Thành tiền
+
+{products_txt} 
+
+{discounts} 
+
+Cộng: 
+
+{total_products} 
+
+Giảm giá:
+
+{total_discounts} 
+
+Phụ phí gói quà:
+
+{total_wrapping} 
+
+Phụ phí giao hàng: 
+
+{total_shipping} 
+
+Thuế VAT:
+
+{total_tax_paid} 
+
+Tổng số tiền phải thanh toán: 
+
+{total_paid} 
+
+Đơn vị vận chuyển {carrier}
+
+Phương thức thanh toán: {payment} 		 
+
+Người đặt hàng:
+{invoice_block_txt} 
+
+Địa chỉ nhận hàng:
+{delivery_block_txt} 
+
+Để xem lại đơn hàng/hóa đơn, Bạn có thể truy cập vào "Lịch sử đặt hàng" [{history_url}] trong phần "Quản lý" [{my_account_url}] của bạn.
+Nếu chưa đăng ký thành viên, Bạn có thể tra cứu đơn hàng trong mục "Theo dõi đơn hàng" [{guest_tracking_url}?id_order={order_name}] trên trang web.
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic

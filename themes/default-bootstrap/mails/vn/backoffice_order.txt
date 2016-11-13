@@ -1,0 +1,16 @@
+Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã mua sắm tại {shop_name}. 
+
+Bạn vừa đặt một đơn hàng mới
+
+Và chỉ còn một bước nữa thôi, vui lòng chuyển đến trang {order_link} để hoàn tất đơn hàng bạn nhé! 
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

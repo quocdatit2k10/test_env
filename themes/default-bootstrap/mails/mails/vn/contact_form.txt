@@ -1,0 +1,19 @@
+Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã liên hệ với {shop_name}. 
+
+Tin nhắn của bạn đã được gửi thành công.
+
+Nội dung:        {message}
+
+Mã đặt hàng:   {order_name}
+Sản phẩm:       {product_name}
+Tệp đính kèm: {attached_file} 
+
+Chúng tôi đã nhận được thông tin và sẽ phản hồi trong thời gian sớm nhất có thể.
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic

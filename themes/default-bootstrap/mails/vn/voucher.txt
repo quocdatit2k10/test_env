@@ -1,0 +1,27 @@
+[{shop_url}] 
+
+{firstname} {lastname} thân mến,
+
+Cảm ơn bạn đã mua sắm tại Japan Domestic!
+
+Bạn có hài lòng với đơn hàng: {order_name} đã đặt tại website của chúng tôi không ạ!
+
+Để đáp lại sự tin yêu của bạn, Japan Domestic - hàng nội địa Nhật xin gửi tặng Quà tri ân sau:
+
+- Phiếu quà tặng: {voucher_amount}
+
+- Mã phiếu:          {voucher_num}
+
+Để sử dụng, bạn chỉ cần copy/paste mã phiếu này khi thanh toán trong lần đặt hàng tiếp theo tại [{shop_url}]
+
+Rất mong được Bạn tiếp tục tin tưởng và chọn lựa làm nơi mua sắm những sản phẩm chất lượng hàng đầu từ Nhật Bản cho gia đình của mình.
+
+Một lần nữa, cảm ơn  Bạn rất nhiều!
+
+Trân trọng,
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

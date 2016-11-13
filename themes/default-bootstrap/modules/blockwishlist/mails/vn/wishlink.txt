@@ -1,0 +1,18 @@
+[{shop_url}] 
+
+Bạn thân mến,
+Sản phẩm này thật hấp dẫn Bạn nhỉ? Hãy chia sẻ điều này bằng cách gửi link:
+
+{wishlist}
+
+đến người thân, bạn bè của bạn để mọi người cùng biết điều bạn đang thích nhé!
+
+Chúc bạn luôn vui và hạnh phúc!
+
+Trân trọng,
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

@@ -1,0 +1,17 @@
+[{shop_url}] 
+
+Gửi {firstname} {lastname}, 
+
+Chúng tôi đã tạo Phiếu chuyển khoản cho đơn hàng: {order_name}. 
+
+Bạn có thể xem lại Phiếu chuyển khoản và tải về Biên nhận của Bạn tại mục "Chuyển khoản" [{history_url}] trong phần quản lý Tài khoản [{my_account_url}]  
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com
+

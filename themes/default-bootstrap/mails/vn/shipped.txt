@@ -1,0 +1,19 @@
+[{shop_url}] 
+
+Gửi {firstname} {lastname},
+
+Cảm ơn bạn đã mua sắm tại Japan Domestic!
+
+Chúng tôi đã giao đơn hàng: {order_name} cho bạn.
+
+Rất mong được tiếp tục đón tiếp bạn trong những lần mua sắm tiếp theo.
+
+Để xem lại đơn hàng, Bạn có thể truy cập vào "Lịch sử đơn hàng" [{history_url}] trong phần "Quản lý" [{my_account_url}] của bạn.
+
+Trân trọng,
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
+Email:                  sale@japandomestic.com
+Website:             www.japandomestic.com

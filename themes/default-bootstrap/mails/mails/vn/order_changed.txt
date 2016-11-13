@@ -1,0 +1,15 @@
+Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã mua sắm tại {shop_name}. 
+
+Đơn đặt hàng {order_name} của bạn đã được điều chỉnh.
+
+Để xem lại đơn hàng/hóa đơn, Bạn có thể truy cập vào "Lịch sử đơn hàng" [{history_url}] trong phần "Quản lý" [{my_account_url}] của bạn.
+Nếu chưa đăng ký thành viên, Bạn có thể tra cứu đơn hàng trong mục "Theo dõi đơn hàng" [{guest_tracking_url}?id_order={order_name}] trên trang web.
+
+Trân trọng,
+
+{shop_name} [{shop_url}]
+229/64/42 Tây Thạnh, Q.Tân Phú, Tp.HCM, Việt Nam
+Viber/Zalo/Line: 0908 939 191
+Skype ID:             japandomestic
